@@ -26,80 +26,80 @@
 
 	Rendering 100000 templates:
 
-ECT
-	Escaped   : 1433ms
-	Unescaped : 81ms
-	Total     : 1514ms
+	ECT
+	  Escaped   : 1433ms
+	  Unescaped : 81ms
+	  Total     : 1514ms
 
-Dust
-	Escaped   : 1677ms
-	Unescaped : 276ms
-	Total     : 1953ms
+	Dust
+	  Escaped   : 1677ms
+	  Unescaped : 276ms
+	  Total     : 1953ms
 
-Hogan.js
-	Escaped   : 1934ms
-	Unescaped : 556ms
-	Total     : 2490ms
+	Hogan.js
+	  Escaped   : 1934ms
+	  Unescaped : 556ms
+	  Total     : 2490ms
 
-Gaikan
-	Escaped   : 1696ms
-	Unescaped : 53ms
-	Total     : 1749ms
+	Gaikan
+	  Escaped   : 1696ms
+	  Unescaped : 53ms
+	  Total     : 1749ms
 
-Fest
-	Escaped   : 1514ms
-	Unescaped : 167ms
-	Total     : 1681ms
+	Fest
+	  Escaped   : 1514ms
+	  Unescaped : 167ms
+	  Total     : 1681ms
 
-EJS without `with`
-	Escaped   : 2915ms
-	Unescaped : 233ms
-	Total     : 3148ms
+	EJS without `with`
+	  Escaped   : 2915ms
+	  Unescaped : 233ms
+	  Total     : 3148ms
 
-doT
-	Escaped   : 2360ms
-	Unescaped : 48ms
-	Total     : 2408ms
+	doT
+	  Escaped   : 2360ms
+	  Unescaped : 48ms
+	  Total     : 2408ms
 
-Swig
-	Escaped   : 3160ms
-	Unescaped : 197ms
-	Total     : 3357ms
+	Swig
+	  Escaped   : 3160ms
+	  Unescaped : 197ms
+	  Total     : 3357ms
 
-Underscore
-	Escaped   : 2408ms
-	Unescaped : 1697ms
-	Total     : 4105ms
+	Underscore
+	  Escaped   : 2408ms
+	  Unescaped : 1697ms
+	  Total     : 4105ms
 
-EJS
-	Escaped   : 4667ms
-	Unescaped : 1512ms
-	Total     : 6179ms
+	EJS
+	  Escaped   : 4667ms
+	  Unescaped : 1512ms
+	  Total     : 6179ms
 
-Eco
-	Escaped   : 4602ms
-	Unescaped : 517ms
-	Total     : 5119ms
+	Eco
+	  Escaped   : 4602ms
+	  Unescaped : 517ms
+	  Total     : 5119ms
 
-Handlebars.js
-	Escaped   : 3018ms
-	Unescaped : 1197ms
-	Total     : 4215ms
+	Handlebars.js
+	  Escaped   : 3018ms
+	  Unescaped : 1197ms
+	  Total     : 4215ms
 
-Jade without `with`
-	Escaped   : 4766ms
-	Unescaped : 1873ms
-	Total     : 6639ms
+	Jade without `with`
+	  Escaped   : 4766ms
+	  Unescaped : 1873ms
+	  Total     : 6639ms
 
-CoffeeKup
-	Escaped   : 2646ms
-	Unescaped : 4934ms
-	Total     : 7580ms
+	CoffeeKup
+	  Escaped   : 2646ms
+	  Unescaped : 4934ms
+	  Total     : 7580ms
 
-Jade
-	Escaped   : 8587ms
-	Unescaped : 6020ms
-	Total     : 14607ms
+	Jade
+	  Escaped   : 8587ms
+	  Unescaped : 6020ms
+	  Total     : 14607ms
 
 ## Usage
 
